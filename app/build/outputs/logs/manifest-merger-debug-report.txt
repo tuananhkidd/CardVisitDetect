@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:3:7-58
+		INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:8:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:10:19-67
+uses-feature#android.hardware.camera.flash
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:11:19-63
+application
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:13:5-41:19
+	android:label
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:13:73-105
+	android:debuggable
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:13:47-72
+	android:icon
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:13:18-46
+activity#jp.co.panasonic.pstc.ocr.android.card.app.MainActivity
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:label
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:17:19-51
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:20:27-74
+activity#jp.co.panasonic.pstc.ocr.android.card.app.camera.CameraActivity
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:25:3-27:20
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:25:51-88
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:25:13-50
+activity#jp.co.panasonic.pstc.ocr.android.card.app.CameraPicturePreviewActivity
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:30:3-98
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:30:58-95
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:30:13-57
+activity#jp.co.panasonic.pstc.ocr.android.card.app.ResultActivity
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:33:3-46
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:33:13-43
+activity#jp.co.panasonic.pstc.ocr.android.card.app.SettingActivity
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:36:3-47
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:36:13-44
+activity#jp.co.panasonic.pstc.ocr.android.card.app.HelpActivity
+ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:39:3-44
+	android:name
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml:39:13-41
+uses-sdk
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\Beetech\Kayak\app\src\main\AndroidManifest.xml

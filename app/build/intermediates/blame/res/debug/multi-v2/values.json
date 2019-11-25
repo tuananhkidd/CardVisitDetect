@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "116,55",
+                        "endColumns": "51,60",
+                        "endOffsets": "163,111"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,107",
+                        "endColumns": "51,60",
+                        "endOffsets": "102,163"
+                    }
+                }
+            ]
+        }
+    ]
+}

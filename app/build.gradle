@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "29.0.2"
+
+    defaultConfig {
+        applicationId "jp.co.panasonic.pstc.ocr.android.card.app"
+        minSdkVersion 10
+        targetSdkVersion 28
+    }
+
+//    externalNativeBuild {
+//        ndkBuild {
+//            path 'src/main/jni/Android.mk'
+//        }
+//    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/IDRDrvLicCardEngine.jar')
+}

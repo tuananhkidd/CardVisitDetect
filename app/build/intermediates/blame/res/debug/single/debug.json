@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ocr.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\src\\main\\res\\drawable-mdpi\\ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ocr.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\src\\main\\res\\drawable-ldpi\\ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ocr.png.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\src\\main\\res\\drawable-hdpi\\ocr.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\build\\intermediates\\res\\merged\\debug\\layout_preview.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\src\\main\\res\\layout\\preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\build\\intermediates\\res\\merged\\debug\\layout_restext.xml.flat",
+        "source": "C:\\Users\\admin\\Desktop\\Beetech\\Kayak\\app\\src\\main\\res\\layout\\restext.xml"
+    }
+]

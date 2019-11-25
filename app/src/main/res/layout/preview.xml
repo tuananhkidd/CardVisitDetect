@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/Layoutp"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#99BBCC"
+    android:orientation="vertical" >
+
+    <!-- プレビュー表示 -->
+    <TableLayout
+        android:id="@+id/main_layout"
+        android:layout_weight="1"
+        android:background="#CCEEFF"
+        android:gravity="center_vertical"
+ 	    android:layout_width="fill_parent"
+ 	    android:layout_height="fill_parent" >
+	    <ImageView
+	        android:id="@+id/Camerapreview"
+	        android:layout_weight="1"
+	 	    android:layout_width="fill_parent"
+	 	    android:layout_height="fill_parent"
+			android:layout_marginTop="5dp"
+			android:layout_marginBottom="5dp"
+			android:layout_marginLeft="5dp"
+			android:layout_marginRight="5dp" />
+	 </TableLayout>
+
+    <!-- セパレータ -->
+    <FrameLayout
+        android:background="#222222"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp" />
+	        
+    <!-- フッター -->
+    <LinearLayout   
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_width="fill_parent"   
+        android:layout_height="40dp">
+	        
+		<Button android:text="再撮影"
+			android:id="@+id/Retake"
+			android:layout_width="160dp"
+			android:layout_height="35dp" />
+				
+		<Button android:text="再選択"
+			android:id="@+id/Reselect"
+			android:layout_width="160dp"
+			android:layout_height="35dp" />
+				
+		<Button android:text="認識"
+			android:id="@+id/Recognize"
+			android:layout_width="160dp"
+			android:layout_height="35dp" />
+			
+    </LinearLayout>
+</LinearLayout>
